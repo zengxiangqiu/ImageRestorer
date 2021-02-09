@@ -12,7 +12,6 @@
     "fs": "0.0.1-security",
     "gm": "^1.23.1",
     "graphicsmagick": "0.0.1",
-    "logform": "^2.2.0",
     "path": "^0.12.7",
     "sequelize": "^6.5.0",
     "tedious": "^11.0.3",
