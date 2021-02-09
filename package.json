@@ -1,0 +1,24 @@
+{
+  "name": "imagerestorer",
+  "version": "1.0.0",
+  "description": "修复IMaster 上传的图片",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "xiangqiu.zeng",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "gm": "^1.23.1",
+    "graphicsmagick": "0.0.1",
+    "logform": "^2.2.0",
+    "path": "^0.12.7",
+    "sequelize": "^6.5.0",
+    "tedious": "^11.0.3",
+    "winston": "^3.3.3"
+  },
+  "devDependencies": {
+    "eslint": "^7.19.0"
+  }
+}
